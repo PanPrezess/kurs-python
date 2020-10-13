@@ -1,2 +1,2 @@
-# kurs-python
+# Kurs Python
 Pliki python do kursu.
