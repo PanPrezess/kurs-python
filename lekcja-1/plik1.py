@@ -6,4 +6,3 @@ y = True # Zmienna typu (Przechowuje true/false)
 z = "Test" # Zmienna typu string(zdanie)
 
 a = 1.2 # Zmienna typu float
-b = 'g' # Zmienna typu char - litera
